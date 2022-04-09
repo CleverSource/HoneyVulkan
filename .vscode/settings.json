@@ -1,5 +1,9 @@
 {
     "files.associations": {
-        "iosfwd": "c"
+        "*.clever": "plaintext",
+        "iosfwd": "c",
+        "defines.h": "c",
+        "tuple": "c",
+        "xstring": "c"
     }
 }
