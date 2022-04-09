@@ -30,7 +30,7 @@ int main(void)
 
     // Initialization.
     if (!application_create(&game_inst)) {
-        HINFO("Application failed to create!");
+        HFATAL("Application failed to create!");
         return 1;
     }
 
